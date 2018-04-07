@@ -1288,6 +1288,6 @@ address a{
 
 /* End Contact Us */
 
-
-
-   
+.ceo-message {
+	margin-top: 0; 
+}
